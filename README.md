@@ -4,7 +4,7 @@ My attempt at Kaggle's Titanic competition of predicting chance of passenger sur
 
 Repository includes:
 
-  1. data analysis code in R
+  1. Data analysis code in R
   
   2. Titanic training set
   
