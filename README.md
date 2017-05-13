@@ -1,4 +1,4 @@
-# Titanic-Kaggle
+# Titanic competition -  Predictive modeling
 
 My attempt at Kaggle's Titanic competition of predicting chance of passenger survival from the Titanic disaster of 1912.
 
